@@ -1,4 +1,4 @@
-Bookstore Desktop Database App
+<h1>Bookstore Desktop Database App</h1>
 
 The app allows the user to add book titles with author, date published and ISBN number to a desktop database.
 
